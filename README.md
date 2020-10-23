@@ -2,12 +2,10 @@
 A Pygame implementation of classic Flappy-Bird game controlled by Neuroevolutional AI.<br/>
 *Images resources are found online, you may use them for any purposes.*
 
-## Screenshots & Gifs
-<img src="https://linkpicture.com/q/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200924201028.png" width=200 height=300>
-
-|![Screen 1](https://www.linkpicture.com/q/1_34.gif) |![Screen 2](https://www.linkpicture.com/q/2_5.gif)|
+## GIFs
+|![Screen 1](https://github.com/JasonFengGit/Flappy-Bird-AI-Powered/raw/master/GIFs/1.gif) |![Screen 2](https://github.com/JasonFengGit/Flappy-Bird-AI-Powered/raw/master/GIFs/2.gif)|
 |---------------------------------------------|---------------------------------------------|
-|![Screen 3](https://www.linkpicture.com/q/3_4.gif) |![Screen 4](https://www.linkpicture.com/q/4_5.gif)|
+|![Screen 3](https://github.com/JasonFengGit/Flappy-Bird-AI-Powered/raw/master/GIFs/3.gif) |![Screen 4](https://github.com/JasonFengGit/Flappy-Bird-AI-Powered/raw/master/GIFs/4.gif)|
 
 ## Logistic
 **This project uses the [NEAT(NeuroEvolution of Augmenting Topologies)](https://en.wikipedia.org/wiki/Neuroevolution) algorithm with [neat-python](https://neat-python.readthedocs.io/en/latest/neat_overview.html).<br/>
